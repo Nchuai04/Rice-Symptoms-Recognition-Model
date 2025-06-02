@@ -1,9 +1,9 @@
 # 病蟲害分類系統
 ## 介紹 
-這個專案基於Visual-Attention-Network(VAN)架構，旨在應用於從手機拍攝的圖像中分類植物的病蟲害等徵狀問題。由於Attention架構可以有效學習全局特徵，因此選擇了基於這個架構訓練分類模型。
+這個專案基於Visual-Attention-Network (VAN)架構，旨在應用於從手機拍攝的圖像中分類植物的病蟲害等徵狀問題。由於Attention架構可以有效學習全局特徵，因此選擇了基於這個架構訓練分類模型。
 
 ## 功能
-- 使用Visual-Attention-Network(VAN)架構進行植物影像蟲害分類。
+- 使用Visual-Attention-Network (VAN)架構進行植物影像蟲害分類。
 
 ## 呈現結果
 |                       原始圖片                       |                          推論結果                           |
