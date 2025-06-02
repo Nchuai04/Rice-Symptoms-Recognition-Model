@@ -72,9 +72,11 @@
 
 
 ### 資料集
-使用Rice nutrient, disease and pest symptom image dataset (水稻營養，病蟲害徵狀影像資料集)，並將異常區域進行裁切的前處理。
+> 使用Rice nutrient, disease and pest symptom image dataset (水稻營養，病蟲害徵狀影像資料集)
+此資料集為團隊自行蒐集，影像資料為田間實際水稻徵狀照片並將異常區域進行裁切的前處理。
+> 關於此資料集的詳細說明請點選[水稻營養，病蟲害徵狀影像資料集](https://aidata.nchu.edu.tw/smarter/dataset/smarter_04_r14088_0_rice_20230118_img1_123456)
 
-類別共31種，如下所示(問題代號:編號):
+> 水稻徵狀類別共31種，如下所示(問題代號:編號):
 - 'K0': 42,
 - 'N0': 1,
 - 'OT07': 583,
